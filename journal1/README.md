@@ -3,7 +3,7 @@ By Peter J. Menzies
 
 I recently got a Yubikey (A USB-like method of two-factor authentication), but because of the type I got, I was unable to use it on my phone. As a secondary option for my phone, I kept the google authenticator on most of my accounts. In the mindset of security, I revoked all trusted devices. 
 
-<img src="assets/Distrust.PNG" width="600" />
+<img src="Distrust.PNG" width="600" />
 
 On my phone, I attempted to sign back into all my accounts. I go to my Google account, enter my 30 character password, and it asked me to enter the authenticator code. I go back to my home screen, open the authenticator, memorize the code, and look to go back to my login page. It turns out due to security concerns, google closes the login page if you leave it. From this point on I knew to complete my goal of logging in I would need to memorize the authenticator key, enter my password, and enter the authenticator key correctly before the 30-second authenticator key timed out.
 
